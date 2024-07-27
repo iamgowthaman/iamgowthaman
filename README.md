@@ -38,3 +38,8 @@ I’m an experienced Quality Engineer with a strong background in web, mobile, a
 </p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamgowthaman&show_icons=true)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamgowthaman&layout=compact&theme=radical)
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamgowthaman&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Gowthaman's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamgowthaman&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
