@@ -28,6 +28,6 @@ I’m an experienced Quality Engineer with a strong background in web, mobile, a
 ## How to Reach Me
 
 - 📫 Email: iamgowthaman99@gmail.com
-- 📝 [Download My Resume](https://github.com/iamgowthaman/iamgowthaman/Resume.pdf)
+- 📝 [Download My Resume](https://github.com/iamgowthaman/iamgowthaman/blob/main/Resume.pdf)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamgowthaman&show_icons=true)  
