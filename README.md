@@ -9,9 +9,9 @@ I’m an experienced Quality Engineer with a strong background in web, mobile, a
 
 ## Skills
 
-- **Testing Tools:** Selenium, Appium, Rest Assured, Postman
-- **DevOps:** Docker, Jenkins, CI/CD
-- **Development:** Git, Microservices, Spring Boot, Nix, Haskell, Java, HTML & CSS, Shell Scripts
+- 🧪 **Testing Tools:** Selenium, Appium, Rest Assured, Postman
+- 🔧 **DevOps:** Docker, Jenkins, CI/CD
+- 💻 **Development:** Git, Microservices, Spring Boot, Nix, Haskell, Java, HTML & CSS, Shell Scripts
 
 ## About Me
 
