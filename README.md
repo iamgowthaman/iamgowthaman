@@ -30,4 +30,11 @@ I’m an experienced Quality Engineer with a strong background in web, mobile, a
 - 📫 Email: iamgowthaman99@gmail.com
 - 📝 [Download My Resume](https://github.com/iamgowthaman/iamgowthaman/blob/main/Resume.pdf)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="Haskell" width="40" height="40"/>
+  <img src="static/nixos-asia.svg" alt="Nix" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</p>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamgowthaman&show_icons=true)  
